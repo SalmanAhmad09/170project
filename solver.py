@@ -28,6 +28,7 @@ def solve(list_of_locations, list_of_homes, starting_car_location, adjacency_mat
     """
     boy = prune_leaf(adjacency_matrix, list_of_homes, list_of_locations)
     print(boy)
+    #testing
     pass
 
 """
